@@ -1,0 +1,32 @@
+html {
+    background-color: #F5E8C7;
+}
+
+h1 {
+    background-color: #363062;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.color-text-h{
+    background-color: #435585;
+    color: whitesmoke;
+    width: 500px;
+    text-align: center;
+}
+
+.color-text-p {
+    background-color: #435585;
+    color: whitesmoke;
+    width: 260px;
+    text-align: center;
+}
+
+.py-logo {
+    height: 30px;
+}
+
+button{
+    background-color:#94acee;
+  }
+
